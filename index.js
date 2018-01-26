@@ -6,5 +6,5 @@ const port = 3000;
 
 // start server here
 app.listen(port, function () {
-  console.log(chalk.green('Hello web server'));
+  console.log(chalk.green('Hello web server !'));
 });
